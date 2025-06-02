@@ -2,6 +2,10 @@
 
 ==gif加载可能需要时间==
 
+![Image](https://github.com/user-attachments/assets/daff7d90-c149-4de0-b4bc-a9084aec105f)
+
+![Image](https://github.com/user-attachments/assets/883a3a8d-4466-4ea2-beed-ea82ba323641)
+
 ![Image](https://github.com/user-attachments/assets/e1d64434-7b33-4751-9e47-36c0b75f55d1)
 
 ## 资源来源
