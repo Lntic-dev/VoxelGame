@@ -337,7 +337,7 @@ public class BaseCharacterStateMachine
 
 ![Boss战斗](https://github.com/Lntic-dev/VoxelGame/blob/master/gif/%E6%8D%A2%E8%A3%85.gif)
 
-![技能战斗](https://github.com/Lntic-dev/VoxelGame/blob/master/gif/%E6%8A%80%E8%83%BD%E6%88%98%E6%96%97.gif
+![技能战斗](https://github.com/Lntic-dev/VoxelGame/blob/master/gif/%E6%8A%80%E8%83%BD%E6%88%98%E6%96%97.gif)
 
 ============================================================================================
 
