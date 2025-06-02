@@ -1,6 +1,7 @@
 # 开放世界体素游戏
 
 ==gif加载可能需要时间==
+
 ![Image](https://github.com/user-attachments/assets/e1d64434-7b33-4751-9e47-36c0b75f55d1)
 
 ## 资源来源
