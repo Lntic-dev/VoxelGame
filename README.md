@@ -91,7 +91,7 @@ public abstract class BlockLayerHandler : MonoBehaviour
 
 设计全局执行器，对话时将对话资产注入全局执行器逐个节点执行对话内容
 
-![image-20250602150355761](C:\Users\Sun\AppData\Roaming\Typora\typora-user-images\image-20250602150355761.png)
+![Image](https://github.com/user-attachments/assets/b47bf409-c82b-4857-8b3d-ac7c84bd4452)
 
 ```c#
 public class DialogueNodeBase : Node {
@@ -156,7 +156,7 @@ public class DialogueNodeBase : Node {
 
 ## 角色架构
 
-![image-20250602152756183](C:\Users\Sun\AppData\Roaming\Typora\typora-user-images\image-20250602152756183.png)
+![Image](https://github.com/user-attachments/assets/7adb0da8-1f2d-4d88-bce1-889c095047fa)
 
 基于组件模式，将角色的功能进行拆分
 
@@ -322,7 +322,7 @@ AETimeline利用状态模式设计各个轨道的进入、执行、退出状态
 
 设计技能执行器逐帧执行技能资产，根据帧数据检测判断轨道中Clip的执行
 
-![image-20250602161640959](C:\Users\Sun\AppData\Roaming\Typora\typora-user-images\image-20250602161640959.png)
+![Image](https://github.com/user-attachments/assets/33f4bab4-a455-4c88-8ab3-46dbb778258e)
 
 ## 技能树
 
@@ -348,7 +348,7 @@ AETimeline利用状态模式设计各个轨道的进入、执行、退出状态
 
 ### 角色
 
-![image-20250602164444650](C:\Users\Sun\AppData\Roaming\Typora\typora-user-images\image-20250602164444650.png)
+![Image](https://github.com/user-attachments/assets/c33e0fe6-02bc-4d5d-91f7-4267c228e882)
 
 通过移动的噪声图加Fresnel实现霸体时角色的身体闪烁黄色光芒的效果
 
@@ -356,7 +356,7 @@ AETimeline利用状态模式设计各个轨道的进入、执行、退出状态
 
 ### 物品可交互
 
-![image-20250602164921945](C:\Users\Sun\AppData\Roaming\Typora\typora-user-images\image-20250602164921945.png)
+![Image](https://github.com/user-attachments/assets/16bdc9f6-1773-48dd-b61e-f82cefb1da66)
 
 ### 风格化水
 
