@@ -1,5 +1,7 @@
 # 开放世界体素游戏
 
+==gif加载可能需要时间==
+
 ## 资源来源
 
 3d资源使用MagicaVoxel进行体素模型建模
@@ -290,7 +292,7 @@ public class BaseCharacterStateMachine
 
 ## 换装
 
-![换装](C:\Users\Sun\Downloads\换装.gif)
+![换装](https://github.com/Lntic-dev/VoxelGame/blob/master/gif/%E6%8D%A2%E8%A3%85.gif)
 
 各个装备的模型绑定同一套骨骼，导入时使用同一个Avatar，通过修改角色Skinned Mesh Renderer的网格和材质球实现角色换装
 
