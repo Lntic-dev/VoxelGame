@@ -2,7 +2,7 @@
 
 ==gif加载可能需要时间==
 
-![Image](https://github.com/user-attachments/assets/e1d64434-7b33-4751-9e47-36c0b75f55d1)
+![Image](https://github.com/user-attachments/assets/93b7cb4d-0064-4b08-86b0-8789e2a27245)
 
 ![Image](https://github.com/user-attachments/assets/daff7d90-c149-4de0-b4bc-a9084aec105f)
 
